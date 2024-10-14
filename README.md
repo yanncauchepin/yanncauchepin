@@ -1,5 +1,3 @@
-![](grinch_68.png)
-
 ### ✅ Recharging public repositories in progress ...
 
 ### Moving forward, with a connection that defies reason across distance and time.
