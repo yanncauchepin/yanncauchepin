@@ -1,6 +1,10 @@
-### ✅ Recharging public repositories in progress ...
+![](grinch_68.png)
 
-### Moving forward, with a connection that defies reason across distance and time.
-### *Laboratory work in Grenoble starting from December*
+#### ✅ Recharging public repositories in progress ...
 
-### [Linkedin](https://www.linkedin.com/in/yanncauchepin) ➖ [Kaggle](https://www.kaggle.com/yanncauchepin) ➖ [DockerHub](https://hub.docker.com/repositories/yanncauchepin) ➖ [HuggingFace](https://huggingface.co/yanncauchepin)
+#### Moving forward, with a connection that defies reason across distance and time.
+#### *Laboratory work in Grenoble starting from December*
+
+#### [Linkedin](https://www.linkedin.com/in/yanncauchepin) ➖ [Kaggle](https://www.kaggle.com/yanncauchepin) ➖ [DockerHub](https://hub.docker.com/repositories/yanncauchepin) ➖ [HuggingFace](https://huggingface.co/yanncauchepin)
+
+![](grinch_25.png)
