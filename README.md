@@ -49,6 +49,6 @@
 </div>
 
 <p align="center">
-  <img src="grinch_170.png" alt="Profile image" style="border-radius: 20px;" width="500px">
-  <img src="grinch_5.png" alt="Profile image" style="border-radius: 20px;" width="500px">
+  <img src="grinch_170.png" alt="Profile image" style="border-radius: 20px;" width="450px">
+  <img src="grinch_5.png" alt="Profile image" style="border-radius: 20px;" width="450px">
 </p>
