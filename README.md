@@ -1,6 +1,54 @@
-### ✅ Recharging public repositories in progress...
+<p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
+<a href="https://github.com/yanncauchepin">
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1000&color=000000&multiline=false&width=600&height=60&lines=Yann+Cauchepin+%7C+INFJ+Personality;Industry-Collaborative+PhD+Student" alt="Typing Animation" />
 
-### Moving forward, with a connection that defies reason across distance and time.
-### *Laboratory work in Grenoble starting from December*.
+</a>
+</p>
 
-### [Linkedin](https://www.linkedin.com/in/yanncauchepin) ➖ [Kaggle](https://www.kaggle.com/yanncauchepin) ➖ [DockerHub](https://hub.docker.com/repositories/yanncauchepin) ➖ [HuggingFace](https://huggingface.co/yanncauchepin) ➖ [GoogleScholar](https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en)
+
+<p align="center">
+<!-- <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-yourwebsite-red?style=flat-square">
+</a> -->
+<!-- <a href="https://yourwebsite.com/CV.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a> -->
+<a href="https://www.linkedin.com/in/yanncauchepin/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<!-- <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a> -->
+<a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF">
+</a>
+<a href="https://www.kaggle.com/yanncauchepin">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
+</a>
+<a href="https://huggingface.co/yanncauchepin">
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=flat-square&logo=huggingface">
+</a>
+<a href="https://hub.docker.com/u/yanncauchepin">
+    <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
+</a>
+</p>
+
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+<div align="center", style="font-family: 'Comfortaa', cursive; color: black;">
+    <h2>
+      ✅ Recharging public repositories in progress...&nbsp;&nbsp;&nbsp;
+      <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
+    </h2> 
+    <div style="display: flex; justify-content: center; gap: 20px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=github_dark" alt="GitHub Profile Details" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=github_dark" alt="Repositories per Language" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=github_dark&utcOffset=1" alt="Productive Time" />
+    </div>
+    <h3>Moving forward, with a connection that defies reason across distance and time.</h3>
+    <h3><em>Laboratory work in Grenoble starting from December.</em></h3>
+</div>
+
+<p align="center">
+  <img src="grinch_138.png" alt="Profile image" style="border-radius: 50%;" width="150px">
+  <img src="grinch_137.png" alt="Profile image" style="border-radius: 50%;" width="150px">
+</p>
