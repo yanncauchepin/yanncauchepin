@@ -1,7 +1,9 @@
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
+</div>
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1000&color=000000&multiline=false&width=600&height=60&lines=Yann+Cauchepin+%7C+INFJ+Personality;Industry-Collaborative+PhD+Student" alt="Typing Animation" />
-
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1000&color=000000&multiline=falses&width=600&height=60&lines=Yann+Cauchepin+%7C+INFJ+Personality;Industry-Collaborative+PhD+Student" />
 </a>
 </p>
 
@@ -32,20 +34,16 @@
     <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
 </a>
 </p>
-
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
-<div align="center", style="font-family: 'Comfortaa', cursive; color: black;">
-    <h2>
-      ✅ Recharging public repositories in progress...&nbsp;&nbsp;&nbsp;
-      <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
-    </h2> 
+<div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=10000&pause=5000000&color=000000&multiline=false&width=1000&height=60&center=true&lines=✅+Recharging+public+repositories+in+progress..." />
     <div style="display: flex; justify-content: center; gap: 20px;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=github_dark" alt="GitHub Profile Details" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=github_dark" alt="Repositories per Language" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=github_dark&utcOffset=1" alt="Productive Time" />
     </div>
-    <h3>Moving forward, with a connection that defies reason across distance and time.</h3>
-    <h3><em>Laboratory work in Grenoble starting from December.</em></h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=2000&color=000000&multiline=false&width=1000&height=60&center=true&lines=Moving+forward+with+connection+that+defies+reason+across+distance+and+time.;Laboratory+work+in+Grenoble+starting+from+December." />
 </div>
 
 <p align="center">
