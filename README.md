@@ -43,7 +43,6 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=github_dark" alt="Repositories per Language" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=github_dark&utcOffset=1" alt="Productive Time" />
     </div>
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=2000&color=000000&multiline=false&width=1000&height=60&center=true&lines=Moving+forward+with+connection+that+defies+reason+across+distance+and+time.;Laboratory+work+in+Grenoble+starting+from+December." />
 </div>
 
 <p align="center">
