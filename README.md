@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
-</div>
+</div> -->
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1000&color=000000&multiline=falses&width=600&height=60&lines=Yann+Cauchepin+%7C+INFJ+Personality;Industry-Collaborative+PhD+Student" />
