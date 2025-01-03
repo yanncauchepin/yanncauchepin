@@ -1,12 +1,15 @@
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+
 <!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div> -->
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1000&color=000000&multiline=falses&width=600&height=60&lines=Yann+Cauchepin+%7C+INFJ+Personality;Industry-Collaborative+PhD+Student" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=36&duration=3000&pause=50000&color=000000&multiline=false&width=1000&height=60&center=true&lines=Yann+Cauchepin" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=1000&color=000000&multiline=falses&width=600&height=60&center=true&lines=Industry-Collaborative+PhD+Student;INFJ+Personnality" />
 </a>
 </p>
-
 
 <p align="center">
 <!-- <a href="https://yourwebsite.com">
@@ -34,18 +37,11 @@
     <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
 </a>
 </p>
-<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=10000&pause=5000000&color=000000&multiline=false&width=1000&height=60&center=true&lines=✅+Recharging+public+repositories+in+progress..." />
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=github_dark" alt="GitHub Profile Details" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=github_dark" alt="Repositories per Language" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=github_dark&utcOffset=1" alt="Productive Time" />
+    <div style="display: flex; justify-content: center; gap;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=default" alt="GitHub Profile Details" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=default&utcOffset=1" alt="Productive Time" />
     </div>
 </div>
-
-<p align="center">
-  <img src="grinch_170.png" style="border-radius: 20px;" width="400px" alt="">
-  <img src="grinch_5.png" style="border-radius: 20px;" width="400px" alt="">
-</p>
