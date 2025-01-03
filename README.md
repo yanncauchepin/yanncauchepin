@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
-<img src="blausee_10.jpg" alt="" width="100%">
+<img src="blausee_19_.jpg" alt="" width="100%">
 
 <!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
@@ -40,6 +40,8 @@
 </a>
 </p>
 
+<img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
+
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=default" alt="GitHub Profile Details" />
@@ -47,3 +49,5 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=default&utcOffset=1" alt="Productive Time" />
     </div>
 </div>
+
+<img src="thoune_3_.jpg" alt="" width="100%">
