@@ -31,13 +31,13 @@
 </a>
 <br>
 <a href="https://www.kaggle.com/yanncauchepin">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle">
 </a>
 <a href="https://huggingface.co/yanncauchepin">
-    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=flat-square&logo=huggingface">
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=flat&logo=huggingface">
 </a>
 <a href="https://hub.docker.com/u/yanncauchepin">
-    <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
+    <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat&logo=docker">
 </a>
 </p>
 
