@@ -21,23 +21,23 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> -->
 <a href="https://www.linkedin.com/in/yanncauchepin/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <!-- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
 <a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat-square&logo=GoogleScholar&logoColor=white&color=0181FF">
 </a>
 <br>
 <a href="https://www.kaggle.com/yanncauchepin">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
 </a>
 <a href="https://huggingface.co/yanncauchepin">
-    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=flat&logo=huggingface">
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=flat-square&logo=huggingface">
 </a>
 <a href="https://hub.docker.com/u/yanncauchepin">
-    <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat&logo=docker">
+    <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
 </a>
 </p>
 
