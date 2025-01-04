@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> -->
 <a href="https://www.linkedin.com/in/yanncauchepin/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
 <!-- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
@@ -29,6 +29,7 @@
 <a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF">
 </a>
+<br>
 <a href="https://www.kaggle.com/yanncauchepin">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
 </a>
