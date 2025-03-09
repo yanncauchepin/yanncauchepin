@@ -26,9 +26,6 @@
 <!-- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
-<a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat-square&logo=GoogleScholar&logoColor=white&color=0181FF">
-</a>
 <br>
 <a href="https://www.kaggle.com/yanncauchepin">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
@@ -39,16 +36,32 @@
 <a href="https://hub.docker.com/u/yanncauchepin">
     <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
 </a>
+<br>
+<a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat-square&logo=GoogleScholar&logoColor=white&color=0181FF">
+</a>
+<a href="https://www.researchgate.net/profile/Yann-Cauchepin">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white">
+</a>
+<!-- <a href="https://ieeexplore.ieee.org/author/">
+    <img src="https://img.shields.io/badge/IEEE-Profile-black?style=flat-square&logo=IEEE&logoColor=white">
+</a> -->
+<a href="https://hal.archives-ouvertes.fr/search/index/?q=yann+cauchepin">
+    <img src="https://img.shields.io/badge/HAL-Profile-orange?style=flat-square&logo=OpenAccess&logoColor=white">
+</a>
 </p>
+
 
 <img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
 
+<br>
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=default" alt="GitHub Profile Details" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=default&utcOffset=1" alt="Productive Time" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=default&utcOffset=1" alt="Productive Time" width="250" height="150" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=default" alt="GitHub Profile Details" width="500" height="150" />        
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" width="250" height="150" />
     </div>
 </div>
+<br>
 
 <img src="thoune_3_.jpg" alt="" width="100%">
