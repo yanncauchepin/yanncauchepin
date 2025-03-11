@@ -66,7 +66,3 @@
 <br>
 
 <img src="thoune_3_.jpg" alt="" width="100%">
-
-<p align="center">
-<img src="meme_grinch_6.png" alt="" width="50%">
-</p>
