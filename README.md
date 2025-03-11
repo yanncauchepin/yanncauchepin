@@ -51,7 +51,6 @@
 </a>
 </p>
 
-
 <img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
 
 <br>
@@ -67,3 +66,7 @@
 <br>
 
 <img src="thoune_3_.jpg" alt="" width="100%">
+
+<p align="center">
+<img src="meme_grinch_6.png" alt="" width="50%">
+</p>
