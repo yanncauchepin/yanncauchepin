@@ -69,5 +69,5 @@
 
 
 <p align="center">
-<img src="meme_grinch_6.png" alt="" width="50%">
+<img src="meme_grinch_6.png" alt="" width="80%">
 </p>
