@@ -1,13 +1,10 @@
 <p align="center">
 <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif"/>
-<br>
-<i>git commit -m "Trusted you"</i>
-<br>
-<i>git reset --hard HEAD~1</i>
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=1000&color=000000&multiline=true&width=600&height=80&center=true&lines=git+commit+-m+'Trusted+you';git+reset+--hard+HEAD~1" />
 </p>
 
 <p align="center">
-<img src="meme_grinch_2.png" alt="" width="80%">
+<img src="meme_grinch_2.png" alt="" width="60%">
 </p>
 
 ---
