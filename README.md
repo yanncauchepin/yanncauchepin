@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif"/>
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=1000&color=000000&multiline=true&width=600&height=120&center=true&lines=git+merge+love;Merge+conflict+detected:;Logical+and+Emotional+mind+vs.+Situation;Please+resolve+manually" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=1000&color=000000&multiline=true&width=600&height=120&center=true&lines=git+merge+love;Merge+conflict+detected:;Logical+or+Emotional+mind+vs.+Situation;Please+resolve+manually" />
 </p>
 
 <p align="center">
