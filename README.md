@@ -1,3 +1,17 @@
+<p align="center">
+<img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif"/>
+<br>
+<i>git commit -m "Trusted you"</i>
+<br>
+<i>git reset --hard HEAD~1</i>
+</p>
+
+<p align="center">
+<img src="meme_grinch_2.png" alt="" width="80%">
+</p>
+
+---
+
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
