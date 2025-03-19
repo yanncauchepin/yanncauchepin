@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
-  <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
-</p>
-
-
----
-
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
@@ -75,7 +67,13 @@
 
 <img src="thoune_3_.jpg" alt="" width="100%">
 
+---
 
 <p align="center">
 <img src="meme_grinch_6.png" alt="" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
 </p>
