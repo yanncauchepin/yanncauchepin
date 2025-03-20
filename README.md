@@ -1,14 +1,3 @@
-<!--
-<p align="center">
-    <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=1000&color=000000&multiline=true&width=600&height=130&center=true&lines=git+merge+love;Merge+conflict+detected:;Logical+or+Emotional+mind+vs.+Situation;Please+resolve+manually" />
-    <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
-</p>
- 
----
-
--->
-
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
@@ -79,5 +68,12 @@
 <img src="thoune_3_.jpg" alt="" width="100%">
 
 <p align="center">
-<img src="meme_grinch_6.png" alt="" width="80%">
+    <img src="meme_grinch_6.png" alt="" width="600"><br>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" height="300"/>
+    <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" height="300"/>
 </p>
