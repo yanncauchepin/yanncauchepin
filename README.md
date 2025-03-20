@@ -74,6 +74,6 @@
 ---
 
 <p align="center">
-    <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" height="300"/>
-    <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" height="300"/>
+    <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" height="250"/>
+    <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" height="250"/>
 </p>
