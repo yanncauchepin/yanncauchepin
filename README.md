@@ -69,11 +69,8 @@
 
 <p align="center">
     <img src="meme_grinch_6.png" alt="" width="600"><br>
-    <img src="meme_grinch_15.png" alt="" width="600"><br>
-    <img src="meme_grinch_7.png" alt="" width="600">
+    <img src="meme_grinch_15.png" alt="" width="600">
 </p>
-
----
 
 ---
 
