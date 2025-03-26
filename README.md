@@ -26,6 +26,9 @@
 <a href="https://www.instagram.com/cauchepinyann/">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram">
 </a>
+<a href="https://x.com/CauchepinYann">
+  <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+</a>
 <!-- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
