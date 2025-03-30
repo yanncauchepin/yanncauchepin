@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+    <img src="astrology_3.jfif." alt="" width="400">
+</p>
+
+<p align="center">
 <!-- <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-yourwebsite-red?style=flat-square">
 </a> -->
