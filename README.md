@@ -62,6 +62,15 @@
 <img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
 
 <br>
+<p align="center">
+    <img src="meme_grinch_6.png" alt="" width="600"><br>
+    <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="600"/>
+</p>
+<br>
+
+<img src="thoune_3_.jpg" alt="" width="100%">
+
+<br>
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=default" alt="GitHub Profile Details" width="500" height="150" />        
@@ -71,11 +80,3 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" width="250" height="150" />
     </div>
 </div>
-<br>
-
-<img src="thoune_3_.jpg" alt="" width="100%">
-
-<p align="center">
-    <img src="meme_grinch_6.png" alt="" width="600"><br>
-    <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="600"/>
-</p>
