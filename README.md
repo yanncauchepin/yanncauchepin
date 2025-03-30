@@ -79,10 +79,3 @@
     <img src="meme_grinch_6.png" alt="" width="600"><br>
     <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="600"/>
 </p>
-
----
-
-<p align="center">
-    <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
-    <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
-</p>
