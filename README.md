@@ -9,7 +9,7 @@
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&duration=3000&pause=50000&color=000000&multiline=false&width=1000&height=100&center=true&lines=🇫🇷 +Yann+Cauchepin+ 🇨🇭" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=2000&color=000000&multiline=true&width=600&height=100&center=true&lines=INFJ+Personality;Empathetic,+Creative,+Committed." />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1500&color=000000&multiline=true&width=600&height=100&center=true&lines=INFJ+Personality;Empathetic,+Creative,+Committed." />
     <br>
     <img src="astrology_4.jfif" alt="" width="250">
 </a>
@@ -80,3 +80,10 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" width="250" height="150" />
     </div>
 </div>
+
+---
+
+ <p align="center">
+     <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
+     <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
+ </p>
