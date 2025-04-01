@@ -9,7 +9,7 @@
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=48&duration=3000&pause=50000&color=000000&multiline=false&width=1000&height=100&center=true&lines=🇫🇷 +Yann+Cauchepin+ 🇨🇭" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=36&duration=2500&pause=1000&color=000000&multiline=falses&width=600&height=90&center=true&lines=Empathetic,+Creative,+Committed.;INFJ+Personality" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=36&duration=2500&pause=1000&color=000000&multiline=true&width=600&height=180&center=true&lines=Empathetic,+Creative,+Committed.;INFJ+Personality" />
     <br>
     <img src="astrology_4.jfif" alt="" width="300">
 </a>
