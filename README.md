@@ -66,6 +66,13 @@
     <img src="meme_grinch_6.png" alt="" width="600"><br>
     <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="600"/>
 </p>
+
+---
+
+ <p align="center">
+     <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
+     <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
+ </p>
 <br>
 
 <img src="thoune_3_.jpg" alt="" width="100%">
@@ -80,10 +87,3 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" width="250" height="150" />
     </div>
 </div>
-
----
-
- <p align="center">
-     <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="600"/>
-     <img src="https://media.giphy.com/media/ebAfdhOr5mn0LG1mme/giphy.gif" width="600"/>
- </p>
