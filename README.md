@@ -75,7 +75,7 @@
  </p>
 <br>
 
-<img src="thoune_3_.jpg" alt="" width="100%">
+<img src="thoune_5_.jpg" alt="" width="100%">
 
 <br>
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
@@ -87,3 +87,7 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=nord_dark" alt="Repositories per Language" width="250" height="150" />
     </div>
 </div>
+
+<br>
+
+<img src="thoune_3_.jpg" alt="" width="100%">
