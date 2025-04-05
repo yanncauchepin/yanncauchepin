@@ -80,10 +80,10 @@
 <br>
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=default" alt="GitHub Profile Details" width="500" height="150" />        
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=nord_dark" alt="GitHub Profile Details" width="500" height="150" />        
     </div>
     <div style="display: flex; justify-content: center; gap;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=default&utcOffset=1" alt="Productive Time" width="250" height="150" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=default" alt="Repositories per Language" width="250" height="150" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=nord_dark&utcOffset=1" alt="Productive Time" width="250" height="150" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=nord_dark" alt="Repositories per Language" width="250" height="150" />
     </div>
 </div>
