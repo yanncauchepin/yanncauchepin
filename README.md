@@ -8,8 +8,8 @@
 </div> -->
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&duration=3000&pause=50000&color=000000&multiline=false&width=1000&height=100&center=true&lines=🇫🇷 +Yann+Cauchepin+ 🇨🇭" alt="Yann Cauchepin"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1500&color=000000&multiline=true&width=600&height=100&center=true&lines=INFJ+Personality;Empathetic,+Creative,+Committed." alt="Empathetic, Creative, Committed." />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&duration=3000&pause=50000&color=000000&multiline=false&width=1000&height=100&center=true&lines=🇫🇷 +Yann+Cauchepin+ 🇨🇭" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1500&color=000000&multiline=true&width=600&height=100&center=true&lines=INFJ+Personality;Empathetic,+Creative,+Committed." alt="" />
     <br>
     <img src="astrology_4.jfif" alt="" width="250">
 </a>
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically.+😊" alt="I manage the exposure of my assets strategically." />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically.+😊" alt="" />
 </p>
 
 <img src="blausee_19_.jpg" alt="" width="100%">
