@@ -58,10 +58,11 @@
     <img src="https://img.shields.io/badge/HAL-Profile-orange?style=flat-square&logo=OpenAccess&logoColor=white">
 </a>
 </p>
-
+<!--
 <p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically." alt="" />
 </p>
+-->
 
 <img src="blausee_19_.jpg" alt="" width="100%">
 
