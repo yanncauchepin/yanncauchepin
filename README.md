@@ -10,15 +10,15 @@
 <div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
     <div  style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="70">
-        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&letterSpacing=&duration=2000&pause=40000&color=F70000&center=true&vCenter=true&width=435&lines=Yann+Cauchepin" alt="" />
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="70">
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="50">
+        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&letterSpacing=&duration=2000&pause=40000&color=F70000&center=true&vCenter=true&width=300&height=30&lines=Yann+Cauchepin" alt="" />
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50">
     </div>
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=40000&color=000000&multiline=false&width=600&height=60&center=true&lines=INFJ+Personality" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=40000&color=000000&multiline=false&width=600&height=60&center=true&lines=Empathetic,+Creative,+Committed." alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=Empathetic,+Creative,+Committed." alt="" />
     <br>
-    <img src="astrology_4.jfif" alt="" width="250">
+    <img src="astrology_4.jfif" alt="" width="30%">
 </a>
 </div>
 
@@ -68,7 +68,7 @@
 
 <!--
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically." alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=16&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically." alt="" />
 </div>
 -->
 <br>
@@ -77,8 +77,8 @@
 
 <br>
 <div align="center">
-    <img src="meme_grinch_6.png" alt="" width="600"><br>
-    <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="600"/>
+    <img src="meme_grinch_6.png" alt="" width="50%"><br>
+    <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="50%"/>
 </div>
 <br>
 
