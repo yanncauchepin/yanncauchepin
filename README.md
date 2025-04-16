@@ -15,8 +15,8 @@
         <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50">
     </div>
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=Empathetic,+Creative,+Committed." alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=Empathetic,+Creative,+Committed." alt="" />
     <br>
     <img src="astrology_4.jfif" alt="" width="30%">
 </a>
@@ -88,11 +88,11 @@
 <br>
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=nord_dark" alt="GitHub Profile Details" width="500" height="150" />        
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=nord_dark" alt="GitHub Profile Details" width="60%" height="20%" />        
     </div>
     <div style="display: flex; justify-content: center; gap;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=nord_dark&utcOffset=1" alt="Productive Time" width="250" height="150" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=nord_dark" alt="Repositories per Language" width="250" height="150" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanncauchepin&theme=nord_dark&utcOffset=1" alt="Productive Time" width="30%" height="20%" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=nord_dark" alt="Repositories per Language" width="30%" height="20%" />
     </div>
 </div>
 
