@@ -11,7 +11,7 @@
 <a href="https://github.com/yanncauchepin">
     <div  style="display: flex; align-items: center; justify-content: center;">
         <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="50">
-        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&letterSpacing=&duration=2000&pause=40000&color=F70000&center=true&vCenter=true&width=250&height=30&lines=Yann+Cauchepin" alt="" />
+        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=250&height=30&lines=Yann+Cauchepin" alt="" />
         <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50">
     </div>
     <br>
