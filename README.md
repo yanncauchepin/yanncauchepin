@@ -6,16 +6,23 @@
 <!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div> -->
-<p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
+
+<div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&duration=3000&pause=50000&color=000000&multiline=false&width=1000&height=100&center=true&lines=🇫🇷 +Yann+Cauchepin+ 🇨🇭" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=1500&color=000000&multiline=true&width=600&height=100&center=true&lines=INFJ+Personality;Empathetic,+Creative,+Committed." alt="" />
+    <div  style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="70">
+        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&letterSpacing=&duration=2000&pause=40000&color=F70000&center=true&vCenter=true&width=435&lines=Yann+Cauchepin" alt="" />
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="70">
+    </div>
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=40000&color=000000&multiline=false&width=600&height=60&center=true&lines=INFJ+Personality" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=32&duration=2500&pause=40000&color=000000&multiline=false&width=600&height=60&center=true&lines=Empathetic,+Creative,+Committed." alt="" />
     <br>
     <img src="astrology_4.jfif" alt="" width="250">
 </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 <!-- <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-yourwebsite-red?style=flat-square">
 </a> -->
@@ -57,20 +64,22 @@
 <a href="https://hal.archives-ouvertes.fr/search/index/?q=yann+cauchepin">
     <img src="https://img.shields.io/badge/HAL-Profile-orange?style=flat-square&logo=OpenAccess&logoColor=white">
 </a>
-</p>
+</div>
+
 <!--
-<p align="center" style="font-family: 'Comfortaa', cursive; color: black;">
+<div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically." alt="" />
-</p>
+</div>
 -->
+<br>
 
 <img src="blausee_19_.jpg" alt="" width="100%">
 
 <br>
-<p align="center">
+<div align="center">
     <img src="meme_grinch_6.png" alt="" width="600"><br>
     <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="600"/>
-</p>
+</div>
 <br>
 
 <img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
