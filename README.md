@@ -33,9 +33,6 @@
 <a href="https://www.linkedin.com/in/yanncauchepin/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://www.instagram.com/cauchepinyann/">
-  <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram">
-</a>
 <a href="https://x.com/CauchepinYann">
   <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
 </a>
