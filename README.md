@@ -2,6 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
 <img src="blausee_10_.jpg" alt="" width="100%">
+<img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
 
 <!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
@@ -74,17 +75,16 @@
 <br>
 
 <img src="blausee_19_.jpg" alt="" width="100%">
+<img src="thoune_3_.jpg" alt="" width="100%">
 
-<br>
+<!--
 <div align="center">
     <img src="meme_grinch_6.png" alt="" width="60%"><br>
     <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="60%"/>
 </div>
-<br>
+-->
 
-<img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
-
-<br>
+<!--
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=nord_dark" alt="GitHub Profile Details" width="60%" height="20%" />        
@@ -94,7 +94,4 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanncauchepin&theme=nord_dark" alt="Repositories per Language" width="30%" height="20%" />
     </div>
 </div>
-
-<br>
-
-<img src="thoune_3_.jpg" alt="" width="100%">
+-->
