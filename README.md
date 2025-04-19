@@ -2,7 +2,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
 <img src="blausee_10_.jpg" alt="" width="100%">
-<img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
 
 <!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
@@ -72,8 +71,12 @@
 -->
 <br>
 
-<img src="blausee_19_.jpg" alt="" width="100%">
 <img src="thoune_3_.jpg" alt="" width="100%">
+
+<!--
+<img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
+<img src="blausee_19_.jpg" alt="" width="100%">
+-->
 
 <!--
 <div align="center">
