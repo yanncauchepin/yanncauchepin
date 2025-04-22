@@ -10,12 +10,14 @@
 <div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
     <div  style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="50" height="60">
-        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=250&height=60&lines=Yann+Cauchepin" alt="" />
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50" height="60">
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="50" height="50">
+        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=250&height=40&lines=Yann+Cauchepin" alt="" />
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50" height="50">
     </div>
 </a>
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
+<br>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Deep+Solver.+Private+Enthusiast." alt="" />
