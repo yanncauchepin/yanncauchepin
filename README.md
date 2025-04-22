@@ -16,15 +16,17 @@
     </div>
 </a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFucWs0OTQ4bnkwcHF4cWplaDZvYWIya2xleXZ2ZWhrbGQ3czN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="30%"/>
 <br>
 <br>
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=30+June+1997" alt="" />
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Deep+Solver.+Private+Enthusiast." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Deep+Solver.+Private+Enthusiast." alt="" />
 <br>
-<img src="astrology_4.jfif" alt="" width="30%">
+<img src="artificial_intelligence_3.jpeg" alt="" width="40%">
+<br>
 
-</div>
 
 <br>
 <div align="center">
@@ -82,12 +84,6 @@
 <img src="blausee_19_.jpg" alt="" width="100%">
 -->
 
-<!--
-<div align="center">
-    <img src="meme_grinch_6.png" alt="" width="60%"><br>
-    <img src="https://media.giphy.com/media/GS0aFTbDmYOGI/giphy.gif" width="60%"/>
-</div>
--->
 
 <!--
 <div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
