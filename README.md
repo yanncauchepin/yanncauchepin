@@ -15,9 +15,9 @@
         <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50">
     </div>
     <br>
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Deep+Overthinker.+Purposeful+Seeker.+Silent+Enthusiast." alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Deep+Overthinker.+Purposeful+Seeker.+Private+Enthusiast." alt="" />
     <br>
     <img src="astrology_4.jfif" alt="" width="30%">
 </a>
