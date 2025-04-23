@@ -10,19 +10,19 @@
 <div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
     <div  style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="50" height="50">
-        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=250&height=40&lines=Yann+Cauchepin" alt="" />
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="40" height="40">
+        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=250&height=40&lines=Yann+Cauchepin" alt="" />
+        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="40" height="40">
     </div>
 </a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=PhD+Student+in+AI+-+Trajectography." alt="" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFucWs0OTQ4bnkwcHF4cWplaDZvYWIya2xleXZ2ZWhrbGQ3czN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="30%"/>
 <br>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=30+June+1997" alt="" />
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Deep+Solver.+Private+Enthusiast." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=30+June+1997" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Deep+Solver.+Private+Enthusiast." alt="" />
 <br>
 <img src="artificial_intelligence_3.jpeg" alt="" width="40%">
 <br>
