@@ -47,6 +47,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
 <br>
+<a href="https://www.strava.com/athletes/169435071"> 
+    <img src="https://img.shields.io/badge/-Strava-fc4c02?style=flat-square&logo=strava&logoColor=white">
+</a>
+<br>
 <a href="https://www.kaggle.com/yanncauchepin">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
 </a>
@@ -69,12 +73,6 @@
 <a href="https://hal.archives-ouvertes.fr/search/index/?q=yann+cauchepin">
     <img src="https://img.shields.io/badge/HAL-Profile-orange?style=flat-square&logo=OpenAccess&logoColor=white">
 </a>
-<!--
-<br>
-<a href="https://www.strava.com/athletes/169435071"> 
-    <img src="https://img.shields.io/badge/-Strava-fc4c02?style=flat-square&logo=strava&logoColor=white">
-</a>
--->
 </div>
 
 
