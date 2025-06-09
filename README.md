@@ -40,16 +40,15 @@
 <a href="https://www.linkedin.com/in/yanncauchepin/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+<a href="https://www.strava.com/athletes/169435071"> 
+    <img src="https://img.shields.io/badge/-Strava-fc4c02?style=flat-square&logo=strava&logoColor=white">
+</a>
 <a href="https://x.com/CauchepinYann">
   <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
 </a>
 <!-- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
-<br>
-<a href="https://www.strava.com/athletes/169435071"> 
-    <img src="https://img.shields.io/badge/-Strava-fc4c02?style=flat-square&logo=strava&logoColor=white">
-</a>
 <br>
 <a href="https://www.kaggle.com/yanncauchepin">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
