@@ -23,7 +23,7 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=30+June+1997" alt="" />
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Insightful+Solver.+Private+Enthusiast." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Purposeful+Seeker.+Humble+Solver.+Private+Enthusiast." alt="" />
 <br>
 <img src="artificial_intelligence_3.jpeg" alt="" width="40%">
 <br>
@@ -75,12 +75,9 @@
 </div>
 
 
-<!--
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=16&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically." alt="" />
 </div>
--->
-<br>
 
 <img src="thoune_3_.jpg" alt="" width="100%">
 
