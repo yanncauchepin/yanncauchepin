@@ -74,11 +74,6 @@
 </a>
 </div>
 
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=16&duration=3000&pause=50000&color=000000&multiline=false&width=1200&height=100&center=true&lines=I+manage+the+exposure+of+my+assets+strategically." alt="" />
-</div>
-
 <img src="thoune_3_.jpg" alt="" width="100%">
 
 <!--
