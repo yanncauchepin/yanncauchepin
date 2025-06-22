@@ -59,6 +59,9 @@
 <a href="https://hub.docker.com/u/yanncauchepin">
     <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
 </a>
+<a href="https://gitlab.com/yanncauchepin">
+    <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white">
+</a>
 <br>
 <a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat-square&logo=GoogleScholar&logoColor=white&color=0181FF">
@@ -73,7 +76,6 @@
     <img src="https://img.shields.io/badge/HAL-Profile-orange?style=flat-square&logo=OpenAccess&logoColor=white">
 </a>
 </div>
-
 <br>
 
 <img src="thoune_3_.jpg" alt="" width="100%">
