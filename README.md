@@ -26,6 +26,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
 <br>
 <img src="artificial_intelligence_2.png" alt="" width="50%">
+<!-- <img src="hike_1_.jpg" alt="" width="35%"> -->
 <br>
 
 
