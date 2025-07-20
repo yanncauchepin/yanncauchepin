@@ -38,6 +38,9 @@
 <!-- <a href="https://yourwebsite.com/CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> -->
+<a href="https://www.youtube.com/@yanncauchepin">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube">
+</a>
 <a href="https://www.linkedin.com/in/yanncauchepin/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
