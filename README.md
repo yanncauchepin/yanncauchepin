@@ -19,7 +19,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Industry-Collaborative+PhD+Student" alt="" />
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Target+Motion+Analysis+-+Artificial+Intelligence" alt="" />
 <div align="center"> 
-    <img src="https://media.giphy.com/media/PPkFR8dS0quU2SYpde/giphy.gif" width="25%"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhyeHQzNWxlM2xuYW9xYmtsNnhzMzJiOGM5enByYjlidXJpMnVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N6funLtVsHW0g/giphy.gif" width="25%"/>
 </div> 
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=30+June+1997" alt="" />
