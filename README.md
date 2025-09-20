@@ -9,15 +9,12 @@
 
 <div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
 <a href="https://github.com/yanncauchepin">
-    <div  style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ch.svg" alt="" width="40" height="40">
-        <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=250&height=40&lines=Yann+Cauchepin" alt="" />
-        <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="" width="40" height="40">
-    </div>
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=800&height=80&lines=Yann+Cauchepin" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=French+-+Swiss" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Industry-Collaborative+PhD+Student" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Target+Motion+Analysis+-+Artificial+Intelligence" alt="" />
 </a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Industry-Collaborative+PhD+Student" alt="" />
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Target+Motion+Analysis+-+Artificial+Intelligence" alt="" />
 <div align="center"> 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRteHNkZHZ1MnlhdHF0NTBrY2Z3dDFlY21xYnRscWFibWdhdWp0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="25%"/>
 </div> 
