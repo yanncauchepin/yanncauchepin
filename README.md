@@ -22,12 +22,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRteHNkZHZ1MnlhdHF0NTBrY2Z3dDFlY21xYnRscWFibWdhdWp0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="25%"/>
 </div> 
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=30+June+1997" alt="" />
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=600&height=40&center=true&lines=INFJ+Personality" alt="" />
-<br>
 
-
-<br>
 <div align="center">
 <!-- <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-yourwebsite-red?style=flat-square">
