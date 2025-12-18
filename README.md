@@ -33,6 +33,9 @@
 <a href="https://www.instagram.com/cauchepinyann">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram">
 </a>
+    <a href="https://www.facebook.com/61585161035282">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
+</a>
 <a href="https://www.strava.com/athletes/169435071"> 
     <img src="https://img.shields.io/badge/-Strava-fc4c02?style=flat-square&logo=strava&logoColor=white">
 </a>
@@ -41,6 +44,9 @@
 </a>
 <a href="https://x.com/CauchepinYann">
   <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+</a>
+<a href="https://discordapp.com/users/1215059745069596783">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 </a>
 <!-- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
