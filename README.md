@@ -1,23 +1,21 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 
-<img src="blausee_10_.jpg" alt="" width="100%">
+<!-- <img src="blausee_10_.jpg" alt="" width="100%"> -->
 
 <!-- <div align="right">
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div> -->
 
 <div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
-<a href="https://github.com/yanncauchepin">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=800&height=80&lines=Yann+Cauchepin" alt="" />
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=French+-+Swiss" alt="" />
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Industry-Collaborative+PhD+Student" alt="" />
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Target+Motion+Analysis+-+Artificial+Intelligence" alt="" />
-</a>
 <br>
-<div align="center"> 
+<!-- <div align="center"> 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRteHNkZHZ1MnlhdHF0NTBrY2Z3dDFlY21xYnRscWFibWdhdWp0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="25%"/>
-</div> 
+</div>  -->
 <br>
 
 <div align="center">
@@ -83,7 +81,7 @@
 </div>
 <br>
 
-<img src="thoune_3_.jpg" alt="" width="100%">
+<!-- <img src="thoune_3_.jpg" alt="" width="100%"> -->
 
 <!--
 <img src="sanary_sur_mer_6_.jpg" alt="" width="100%">
