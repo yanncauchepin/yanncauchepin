@@ -52,6 +52,9 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
 <br>
+<a href="https://github.com/yanncauchepin">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white">
+</a>
 <a href="https://gitlab.com/yanncauchepin">
     <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white">
 </a>
