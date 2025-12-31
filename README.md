@@ -52,6 +52,9 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> -->
 <br>
+<a href="https://gitlab.com/yanncauchepin">
+    <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white">
+</a>
 <a href="https://www.kaggle.com/yanncauchepin">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
 </a>
@@ -60,9 +63,6 @@
 </a>
 <a href="https://hub.docker.com/u/yanncauchepin">
     <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
-</a>
-<a href="https://gitlab.com/yanncauchepin">
-    <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white">
 </a>
 <br>
 <a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
