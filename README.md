@@ -25,60 +25,60 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> -->
 <a href="https://www.linkedin.com/in/yanncauchepin/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <a href="https://www.instagram.com/cauchepinyann">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-    <a href="https://www.facebook.com/61585161035282">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
+<a href="https://www.facebook.com/61585161035282">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 <a href="https://www.strava.com/athletes/169435071"> 
-    <img src="https://img.shields.io/badge/-Strava-fc4c02?style=flat-square&logo=strava&logoColor=white">
+    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava">
 </a>
 <a href="https://www.youtube.com/@yanncauchepin">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://x.com/CauchepinYann">
-  <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 <a href="https://discordapp.com/users/1215059745069596783">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<!-- <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a> -->
+
 <br>
+
 <a href="https://github.com/yanncauchepin">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://gitlab.com/yanncauchepin">
-    <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </a>
 <a href="https://www.kaggle.com/yanncauchepin">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
 <a href="https://huggingface.co/yanncauchepin">
-    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=flat-square&logo=huggingface">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
 </a>
 <a href="https://hub.docker.com/u/yanncauchepin">
-    <img src="https://img.shields.io/badge/DockerHub-Profile-blue?style=flat-square&logo=docker">
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </a>
+
 <br>
+
 <a href="https://scholar.google.com/citations?user=pt-6yL4AAAAJ&hl=en&authuser=1">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat-square&logo=GoogleScholar&logoColor=white&color=0181FF">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
 </a>
 <a href="https://www.researchgate.net/profile/Yann-Cauchepin">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
 </a>
-<!-- <a href="https://ieeexplore.ieee.org/author/">
-    <img src="https://img.shields.io/badge/IEEE-Profile-black?style=flat-square&logo=IEEE&logoColor=white">
-</a> -->
 <a href="https://hal.archives-ouvertes.fr/search/index/?q=yann+cauchepin">
-    <img src="https://img.shields.io/badge/HAL-Profile-orange?style=flat-square&logo=OpenAccess&logoColor=white">
+    <img src="https://img.shields.io/badge/HAL-FF6600?style=for-the-badge&logo=hal&logoColor=white" alt="HAL">
 </a>
+
 </div>
 <br>
+
 
 <!-- <img src="thoune_3_.jpg" alt="" width="100%"> -->
 
