@@ -1,6 +1,4 @@
-<!-- <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet"> -->
-<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">
 
 <!-- <img src="blausee_10_.jpg" alt="" width="100%"> -->
 
@@ -8,12 +6,12 @@
     <img src="https://komarev.com/ghpvc/?username=yanncauchepin&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div> -->
 
-<div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
-    <img src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=800&height=80&lines=Yann+Cauchepin" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Lexend&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=French+-+Swiss" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Lexend&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Industry-Collaborative+PhD+Student" alt="" />
-    <img src="https://readme-typing-svg.demolab.com?font=Lexend&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Target+Motion+Analysis+-+Artificial+Intelligence" alt="" />
-<br>
+<!-- <div align="center" style="font-family: 'Comfortaa', cursive; color: black;">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&letterSpacing=&duration=2000&pause=40000&color=000000&center=true&vCenter=true&width=800&height=80&lines=Yann+Cauchepin" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=French+-+Swiss" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Industry-Collaborative+PhD+Student" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=4000&pause=40000&color=000000&multiline=false&width=800&height=40&center=true&lines=Target+Motion+Analysis+-+Artificial+Intelligence" alt="" />
+<br> -->
 <!-- <div align="center"> 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRteHNkZHZ1MnlhdHF0NTBrY2Z3dDFlY21xYnRscWFibWdhdWp0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="25%"/>
 </div>  -->
@@ -91,7 +89,7 @@
 
 
 <!--
-<div align="center", style="color: black; text-align: center; font-family: 'Comfortaa', sans-serif;">
+<div align="center", style="color: black; text-align: center; font-family: 'Montserrat', sans-serif;">
     <div style="display: flex; justify-content: center; gap;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanncauchepin&theme=nord_dark" alt="GitHub Profile Details" width="60%" height="20%" />        
     </div>
