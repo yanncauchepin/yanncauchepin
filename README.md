@@ -27,21 +27,21 @@
 <a href="https://www.linkedin.com/in/yanncauchepin/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-<a href="https://www.instagram.com/cauchepinyann">
+<!-- <a href="https://www.instagram.com/cauchepinyann">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://www.facebook.com/61585161035282">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+</a> -->
 <a href="https://www.strava.com/athletes/169435071"> 
     <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava">
 </a>
 <a href="https://www.youtube.com/@yanncauchepin">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://x.com/CauchepinYann">
+<!-- <a href="https://x.com/CauchepinYann">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
+</a> -->
 <a href="https://discordapp.com/users/1215059745069596783">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
